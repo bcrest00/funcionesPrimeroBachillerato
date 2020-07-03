@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?> 
+<?xml-stylesheet href="funciones.css" type="text/css"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.38928pt" height="14.98521pt" viewBox="-0.75945 -1.62262 40.38928 14.98521 "> 
+<g transform="translate(0,13.3626 ) scale(1,-1) translate(0,1.62262 )"> 
+<g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <path d=" M 0.0 1.42262 L 0.0 -1.42262  " fill="none"/>
+ <path d=" M 0.0 0.0 L 38.41042 0.0  " fill="none"/>
+ <g transform="translate(38.41042,0.0)">
+ <g stroke-width="0.31999">
+ <g stroke-dasharray="none" stroke-dashoffset="0.0">
+ <g stroke-linecap="round">
+ <g stroke-linejoin="round">
+ <path d=" M -1.19998 1.59998 C -1.09998 0.99998 0.0 0.09999 0.29999 0.0 C 0.0 -0.09999 -1.09998 -0.99998 -1.19998 -1.59998  " fill="none"/>
+ </g>
+ </g>
+ </g>
+ </g>
+  </g>
+ <g transform="translate(3.23915,4.1986)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(16.19604,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none">       </g> </g>
+ </text> 
+</g>
+ </g>
+ </g>
+ </g>
+  </g> 
+</svg> 
