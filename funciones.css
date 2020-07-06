@@ -397,6 +397,11 @@ a:hover {
   font-size: 100%;
 }
 
+.subsubsectionToc {
+  font-family: sans-serif;
+  font-size: 100%;
+}
+
 
 /* ============================================================
  * Título en toc
